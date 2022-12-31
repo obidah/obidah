@@ -47,3 +47,9 @@
  
  
 <hr>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obidah&show_icons=true&locale=en&layout=compact" alt="obidah" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obidah&show_icons=true&locale=en" alt="obidah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obidah&" alt="obidah" /></p>
