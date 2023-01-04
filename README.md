@@ -33,7 +33,7 @@
 <p><a href="https://www.buymeacoffee.com/Obidah Alnamrouti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Obidah Alnamrouti" /></a></p><br><br>
 <b>My GitHub Stats 🔥</b>
 
-<a href="http://www.github.com/obidah"><img src="https://github-readme-stats.vercel.app/api?username=obidah&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="obidah's GitHub stats" /></a>
+<a href="http://www.github.com/obidah"><img src="https://github-readme-stats.vercel.app/api?username=obidah&show_icons=true&hide=&count_private=true&title_color=FFCACA&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="obidah's GitHub stats" /></a>
 
 <a href="http://www.github.com/obidah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=obidah&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
