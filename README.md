@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Obidah Alnamrouti</h1>
-<h3 align="center">Front-End & Desktop-Apps Developer </h3>
+<h3 align="center">Full-stack & Desktop-Apps Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/8077555.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obidah&label=Profile%20views&color=0e75b6&style=flat" alt="obidah" /> </p>
